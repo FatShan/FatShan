@@ -19,9 +19,13 @@
 4. 返回最小长度
 
 > arr[0...n] sum mod p = x, **to find** subarr[j...k] sum mod p = x => **to find** subarr[0...j-1] sum mod p = subarr[0...k] (sum - x) mod p
+> 
 > proof: this eq to (y - z) mod p = x <=> z mod p = (y - x) mod p
+> 
 > ( y - z) mod p = x => y - z = kp + x
+> 
 > => z = y - kp - x = (y - x) - kp = (y - x) mod p + k'p - kp
+> 
 > => z mod p = (y - x) mod p
 
 ## 代码
