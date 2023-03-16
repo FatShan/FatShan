@@ -16,7 +16,7 @@
 
 1. 计算每个点的度，记录邻接矩阵。
 2. 找到最大值Fmax和次大值Smax，并记录所有Fmax和Smax的下标，其中Fmax!=Smax。
-3. 分类讨论：Fmax数量大于1，则秩为`2*Fmax-1` / `2Fmax`；若Fmax数量为1，Smax数量大于1，则秩为`Fmax+Smax-1` / `Fmax+Smax`；若Fmax数量为1，Smax数量为1，则秩为`Fmax+Smax-1` / `Fmax+Smax`。
+3. 分类讨论：Fmax数量大于1，则秩为`2*Fmax-1` / `2*Fmax`；若Fmax数量为1，Smax数量大于1，则秩为`Fmax+Smax-1` / `Fmax+Smax`；若Fmax数量为1，Smax数量为1，则秩为`Fmax+Smax-1` / `Fmax+Smax`。
 
 ## 代码
 
