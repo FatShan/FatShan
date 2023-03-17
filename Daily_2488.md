@@ -28,6 +28,7 @@
 
 ## 代码
 
+``` cpp
 class Solution {
 public:
     inline int sign(int num) {
@@ -63,5 +64,6 @@ public:
         return ans;
     }
 };
+```
 
 ## 优化思考
