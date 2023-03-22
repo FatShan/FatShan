@@ -23,3 +23,10 @@
 
 # cmake一下
 
+cmake_minimum_required(VERSION 3.10)
+
+> 这是必需的=,=
+
+project(ProjectName VERSION 1.0)
+
+> 
