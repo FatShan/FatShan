@@ -59,7 +59,10 @@ public:
 
 ## 优化思考
 
+组合数学
+
+
 
 ## 相关阅读
 
-
+[数位 DP](https://oi-wiki.org/dp/number/)
