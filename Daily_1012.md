@@ -59,8 +59,6 @@ public:
 
 组合数学
 
-
-
 ## 相关阅读
 
 [数位 DP](https://oi-wiki.org/dp/number/)
