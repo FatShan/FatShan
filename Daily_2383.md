@@ -42,8 +42,6 @@ public:
 
 ## 优化思考
 
-
-
 ## 相关阅读
 
 [How to sum up elements of a C++ vector?](https://stackoverflow.com/questions/3221812/how-to-sum-up-elements-of-a-c-vector)
